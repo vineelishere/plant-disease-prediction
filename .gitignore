@@ -1,0 +1,22 @@
+
+# Dataset and test data
+plantvillage dataset/
+dataset/
+data/
+
+# Trained models
+*.h5
+*.keras
+*.hdf5
+*.pt
+*.pth
+
+# Credentials
+kaggle.json
+.env
+
+# Python environment and cache
+venv/
+.venv/
+__pycache__/
+*.py[cod]
